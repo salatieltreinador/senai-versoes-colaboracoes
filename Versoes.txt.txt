@@ -1,1 +1,2 @@
 Salatiel Teste
+lembrei do comando: git status
